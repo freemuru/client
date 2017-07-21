@@ -1,10 +1,10 @@
-version:3
+version:4
 Antihack.dll:ef696d3ab2680f2cab116d3d581ecb4e
 cg.dll:7401c600b165bed127f246147bc7334f
 cgGL.dll:1aca5665979d2c675acfe6bfd12a6435
 LICENSE:cecd9bd4824cb31c991359e31c018eae
-LTP.dll:ff7b9fbb0cd021a5273a010f7a38acaf
-main.exe:dde9c9fa8f83ef0f9f54be0f5e48c738
+LTP.dll:ba6098f0bc7939cacb796d165f259d67
+main.exe:cf36fdf0ace290dc9de4099a73b7189e
 MHPVerify.dll:aa4b5fede73428e54f2952516e72e123
 ogg.dll:f9ed18b2c390e5ba72856b91ca018b7e
 Settings.ini:935ce575e919b8bb4379163b6c7f858a
@@ -23,10 +23,10 @@ Data/t41.bmd:bdb9d6ea2da43bf0fc7d8ec334cafda0
 Data/Custom/Diablo.txt:9f7b395606f52165312a02ea0a4bd66d
 Data/Custom/EventEntry.txt:69eff9da3cc88b6d432e79f9843c0dfc
 Data/Custom/GrandResetGroup.txt:9219976f3a63db97803224a81357e8ae
-Data/Custom/ResetGroup.txt:892d45e2b98338322928446e5ae30981
-Data/Custom/Settings.ini:dd9732e647e57c8b6289fea0b14467f2
-Data/Custom/Configs/ah.ltp:5913db4245e7ae515e796d4890170ade
-Data/Custom/Configs/main.ltp:ed024e8660914f43f5fb2846eb9203c4
+Data/Custom/ResetGroup.txt:a5c1a89d1df4dbf0711a35f575ae263a
+Data/Custom/Settings.ini:7b948b98b4ee6d09c75e868b80ff734d
+Data/Custom/Configs/ah.ltp:87f6f4c80ccf1f256fed1cab2bc06065
+Data/Custom/Configs/main.ltp:31ab3a6795010e7c95c9b9a930c1bad6
 Data/Custom/Effects/glow_blur_fp.cg:e4dbb7dce1fb11a3176d9d0abefa5b17
 Data/Custom/Effects/glow_blur_vp.cg:193c4f5f258da4c0ca5d32b3f0b31e54
 Data/Custom/Effects/glow_combine_fp.cg:775f264ac41e5f3663a1fbe2795fe16d
@@ -94,7 +94,6 @@ Data/Custom/Item/Hellmaine.bmd:441c14e12eb54df6b205801b7a595bf4
 Data/Custom/Item/hellmine.OZJ:46059ec609345ed92f332dd92490b339
 Data/Custom/Item/Items/GoldCoin.bmd:5a0ab96c92ef1c972d4def403aff3ba2
 Data/Custom/Item/Items/GoldCoin.ozj:3dc0b0103670cc0c1fa7c5ca923acb83
-Data/Custom/Item/Items/Items.rar:390efba5509fa5a356568b885a10b839
 Data/Custom/Item/Items/PlatCoin.ozj:4f13f040253ad1f5f2bbc1545e3503f5
 Data/Custom/Item/Items/PlatinumCoin.bmd:06a67cca8e90a95ae117033821fd0523
 Data/Custom/Item/Items/SilvCoin.ozj:f959898d9addf523f933488eda1a4bd7
@@ -2652,7 +2651,7 @@ Data/Local/Eng/skill_eng.bmd:a4b144edb1628c8151f4d6aebca9c26e
 Data/Local/Eng/skill_eng.orig.bmd:c6a4a41bf880cfd28466df299ee5b347
 Data/Local/Eng/slide_eng.bmd:990ca0d49b5bb1d40a735e70f2a81be3
 Data/Local/Eng/socketitem_eng.bmd:290c418df977d79c02fa881cbc149660
-Data/Local/Eng/Text_eng.bmd:ed9cd9e587d3abd7fbc45d46b7f9ff0a
+Data/Local/Eng/Text_eng.bmd:6fe83b17dbae61b608e2c89c83de1db1
 Data/Local/Eng/Text_eng1.bmd:209b3a4e0590d78678b51d401f2dd554
 Data/Local/Eng/ImgsMapName/aida.OZT:e291efb0b6c70c8ee7e11361cd0ebb8f
 Data/Local/Eng/ImgsMapName/atlans.OZT:2053219378dcefd5d701d7147b0491a0
@@ -14579,3 +14578,6 @@ Data/World9/TileRock03.OZJ:4aadfe46434c453f63cbc4343d4907a6
 Data/World9/TileRock04.OZJ:c84760bd3f300570091820c80c008d00
 Data/World9/TileWater01.OZJ:f7f73b1edee85f87b38f9f0445b76240
 Data/World9/TileWood01.OZJ:cd3eaa56e961caa6a0628d90317356c0
+Logs/2017-07-21.txt:d41d8cd98f00b204e9800998ecf8427e
+Logs/Error.log:2c2c54eababfc332f2fd068709e691b6
+MHP_LOG/2017-07-21.log:60aeba6e06808f61b7d0cf3258111731
