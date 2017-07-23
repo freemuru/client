@@ -1,4 +1,4 @@
-version:4
+version:5
 Antihack.dll:ef696d3ab2680f2cab116d3d581ecb4e
 cg.dll:7401c600b165bed127f246147bc7334f
 cgGL.dll:1aca5665979d2c675acfe6bfd12a6435
@@ -26,7 +26,7 @@ Data/Custom/GrandResetGroup.txt:9219976f3a63db97803224a81357e8ae
 Data/Custom/ResetGroup.txt:a5c1a89d1df4dbf0711a35f575ae263a
 Data/Custom/Settings.ini:7b948b98b4ee6d09c75e868b80ff734d
 Data/Custom/Configs/ah.ltp:87f6f4c80ccf1f256fed1cab2bc06065
-Data/Custom/Configs/main.ltp:31ab3a6795010e7c95c9b9a930c1bad6
+Data/Custom/Configs/main.ltp:982b34b86b86105518bd42457fd5bb7e
 Data/Custom/Effects/glow_blur_fp.cg:e4dbb7dce1fb11a3176d9d0abefa5b17
 Data/Custom/Effects/glow_blur_vp.cg:193c4f5f258da4c0ca5d32b3f0b31e54
 Data/Custom/Effects/glow_combine_fp.cg:775f264ac41e5f3663a1fbe2795fe16d
@@ -486,9 +486,9 @@ Data/Effect/partCharge1/bujuckline.ozj:d17ae6223bd0a4ee899e0f3371be5288
 Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.jpg:db3c16a5e76b2de9f54c3c6825b10081
 Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.OZJ:4f076ed85bba36876b5d36b8370707f0
 Data/InGameShopBanner/583.2010.005/IBSBanner.txt:d41d8cd98f00b204e9800998ecf8427e
-Data/InGameShopScript/512.2011.006/IBSCategory.txt:04b1b79d33ece71b568c5d2fb3b013f6
-Data/InGameShopScript/512.2011.006/IBSPackage.txt:acd2b0b2c014274a6c16d5cd27c2313e
-Data/InGameShopScript/512.2011.006/IBSProduct.txt:f6300f415ec6947f01a9a7fa0afad7d1
+Data/InGameShopScript/512.2011.006/IBSCategory.txt:c59470dbb93668483ac73d27d4eaf7f3
+Data/InGameShopScript/512.2011.006/IBSPackage.txt:612c22a157568b75849b397a8f3ab8b2
+Data/InGameShopScript/512.2011.006/IBSProduct.txt:ff70b5fb83535cf04d1f358b84ab3de2
 Data/InGameShopScript/512.2011.047/IBSCategory.txt:d8ba16b7f438505c3b4d99ae9185fadd
 Data/InGameShopScript/512.2011.047/IBSPackage.txt:44bd380d2f894b5775db5adf3ea1dc6d
 Data/InGameShopScript/512.2011.047/IBSProduct.txt:35a6f9268603cf38e7f81418b3d983e4
@@ -14578,6 +14578,4 @@ Data/World9/TileRock03.OZJ:4aadfe46434c453f63cbc4343d4907a6
 Data/World9/TileRock04.OZJ:c84760bd3f300570091820c80c008d00
 Data/World9/TileWater01.OZJ:f7f73b1edee85f87b38f9f0445b76240
 Data/World9/TileWood01.OZJ:cd3eaa56e961caa6a0628d90317356c0
-Logs/2017-07-21.txt:d41d8cd98f00b204e9800998ecf8427e
-Logs/Error.log:2c2c54eababfc332f2fd068709e691b6
-MHP_LOG/2017-07-21.log:60aeba6e06808f61b7d0cf3258111731
+ScreenShots/.gitkeep:9aeb7f1a6545b7f3fc45e2b54f614713
