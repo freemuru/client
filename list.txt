@@ -1,10 +1,10 @@
-version:7
+version:8
 Antihack.dll:ef696d3ab2680f2cab116d3d581ecb4e
 cg.dll:7401c600b165bed127f246147bc7334f
 cgGL.dll:1aca5665979d2c675acfe6bfd12a6435
 Launcher.exe:95aceb31d29f09e0c51a7698ad909c63
 LICENSE:cecd9bd4824cb31c991359e31c018eae
-LTP.dll:ba6098f0bc7939cacb796d165f259d67
+LTP.dll:56a5bd3b22579194692e484bb58bbb0e
 main.exe:cf36fdf0ace290dc9de4099a73b7189e
 MaterialSkin.dll:dae45e51f8763bd0369a221480db0ee1
 MHPVerify.dll:aa4b5fede73428e54f2952516e72e123
@@ -24,11 +24,11 @@ Data/Messages.txt:cdd8054080916e7179a58b9405ee57ad
 Data/t41.bmd:bdb9d6ea2da43bf0fc7d8ec334cafda0
 Data/Custom/Diablo.txt:9f7b395606f52165312a02ea0a4bd66d
 Data/Custom/EventEntry.txt:69eff9da3cc88b6d432e79f9843c0dfc
-Data/Custom/GrandResetGroup.txt:203b9eb3fa7ca2b9b2c0b715c87ac84a
+Data/Custom/GrandResetGroup.txt:d52d1c924f495e2ec7348c80c8da671c
 Data/Custom/ResetGroup.txt:a5c1a89d1df4dbf0711a35f575ae263a
 Data/Custom/Settings.ini:40bc364cb31ddeb39edd14705312ef27
 Data/Custom/Configs/ah.ltp:87f6f4c80ccf1f256fed1cab2bc06065
-Data/Custom/Configs/main.ltp:982b34b86b86105518bd42457fd5bb7e
+Data/Custom/Configs/main.ltp:58a27ae0c9abcf857d8fadf7bb7fe48d
 Data/Custom/Effects/glow_blur_fp.cg:e4dbb7dce1fb11a3176d9d0abefa5b17
 Data/Custom/Effects/glow_blur_vp.cg:193c4f5f258da4c0ca5d32b3f0b31e54
 Data/Custom/Effects/glow_combine_fp.cg:775f264ac41e5f3663a1fbe2795fe16d
@@ -2645,8 +2645,8 @@ Data/Local/Eng/JewelOfHarmonySmelt_eng.bmd:5b4d2f2d2ebde1ddef5bf753fcd92d78
 Data/Local/Eng/MasterSkillTooltip_eng.bmd:d75f6b0c50012723c6380bd62d1662de
 Data/Local/Eng/MasterSkillTreeData_eng.bmd:5b76f5789202677ccc134bf87d66d4f2
 Data/Local/Eng/movereq_eng.bmd:636c0d2c6baad39765f44bd829b54b90
-Data/Local/Eng/Npcname(eng).txt:18bc2f37253ce7b8e960dfa15903b53a
-Data/Local/Eng/Npcname_eng.txt:e7b7625258566b2ead37c0862a2fbe1b
+Data/Local/Eng/Npcname(eng).txt:ae9f3b061fa1a23b4d0b4fe25f365b8c
+Data/Local/Eng/Npcname_eng.txt:da34f0b9794292643ca232b190759ce0
 Data/Local/Eng/QuestWords_eng.bmd:47092d571f1ff253824316df04c788f4
 Data/Local/Eng/Quest_eng.bmd:6d7588d953f02f21356c3b1f15135b08
 Data/Local/Eng/skill_eng.bmd:a4b144edb1628c8151f4d6aebca9c26e

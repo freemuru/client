@@ -264,7 +264,7 @@
 242	1	"Elf Lala"	
 243	1	"Eo the Craftsman"	
 244	1	"Caren the Barmaid"	
-245	1	"Wizard Izabel"	
+245	1	"Credit shop - DW"	
 246	1	"Weapons Merchant Zienna"	
 247	1	"Guard"	
 248	1	"Wandering Merchant Martin"	
@@ -470,7 +470,7 @@
 414	1	"Helper Ellen"	
 // 엘베란드  NPC			
 415	1	"Silvia"	
-416	1	"Rhea"	
+416	1	"Credit shop - MG"	
 417	1	"Marce"	
 // 엘베란드 사냥터 (2007-09-18 김현지)			
 418	1	"Strange Rabbit"	
