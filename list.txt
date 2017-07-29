@@ -1,8 +1,8 @@
-version:8
+version:9
 Antihack.dll:ef696d3ab2680f2cab116d3d581ecb4e
 cg.dll:7401c600b165bed127f246147bc7334f
 cgGL.dll:1aca5665979d2c675acfe6bfd12a6435
-Launcher.exe:95aceb31d29f09e0c51a7698ad909c63
+Launcher.exe:49d3a97a0fc55c569c3c82a3cb6346e7
 LICENSE:cecd9bd4824cb31c991359e31c018eae
 LTP.dll:56a5bd3b22579194692e484bb58bbb0e
 main.exe:cf36fdf0ace290dc9de4099a73b7189e
