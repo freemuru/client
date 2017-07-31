@@ -1,4 +1,4 @@
-version:9
+version:10
 Antihack.dll:ef696d3ab2680f2cab116d3d581ecb4e
 cg.dll:7401c600b165bed127f246147bc7334f
 cgGL.dll:1aca5665979d2c675acfe6bfd12a6435
@@ -489,8 +489,8 @@ Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.jpg:db3c16a5e76b2de9
 Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.OZJ:4f076ed85bba36876b5d36b8370707f0
 Data/InGameShopBanner/583.2010.005/IBSBanner.txt:d41d8cd98f00b204e9800998ecf8427e
 Data/InGameShopScript/512.2011.006/IBSCategory.txt:c59470dbb93668483ac73d27d4eaf7f3
-Data/InGameShopScript/512.2011.006/IBSPackage.txt:c1fc47e63c8ba10dc797b7fc7f690e32
-Data/InGameShopScript/512.2011.006/IBSProduct.txt:43c8a68b6208d438032e36e9c1acd842
+Data/InGameShopScript/512.2011.006/IBSPackage.txt:d365ea9cb1880214183f9273fa0c3d56
+Data/InGameShopScript/512.2011.006/IBSProduct.txt:46cae214bf1a5829ac818c5a848f5b8c
 Data/InGameShopScript/512.2011.047/IBSCategory.txt:d8ba16b7f438505c3b4d99ae9185fadd
 Data/InGameShopScript/512.2011.047/IBSPackage.txt:44bd380d2f894b5775db5adf3ea1dc6d
 Data/InGameShopScript/512.2011.047/IBSProduct.txt:35a6f9268603cf38e7f81418b3d983e4
@@ -2635,11 +2635,8 @@ Data/Local/Eng/itemsetoption_eng.bmd:ab91fc070e3f80920a5d36be78b6b041
 Data/Local/Eng/itemsettype.bmd:33be759bd48d2b85754a91bf9746816e
 Data/Local/Eng/itemtooltiptext_eng.bmd:12116468dbac5d6f6804de3ce1e20329
 Data/Local/Eng/itemtooltiptext_eng.old.bmd:904355ab371f6086ba4f9e17bd5d6f82
-Data/Local/Eng/itemtooltip_eng.bmd:0342eb93f06a364c191b0b7bbf57d8c9
+Data/Local/Eng/itemtooltip_eng.bmd:00b7a02c776a00ca66cdc345c91ce33a
 Data/Local/Eng/item_eng.bmd:b174aec6ce01361704faba16d93d0793
-Data/Local/Eng/item_eng.orig.bmd:515e2c265e6662fb1a6cfb2d87e71f88
-Data/Local/Eng/item_eng1.bmd:a63b5a0fbabab169c10e40b12a18bb68
-Data/Local/Eng/item_eng_orig.bmd:eef0676df828f7b75c47f3d4deed6ff0
 Data/Local/Eng/JewelOfHarmonyOption_eng.bmd:8524f4aed649e73239edec6241490a14
 Data/Local/Eng/JewelOfHarmonySmelt_eng.bmd:5b4d2f2d2ebde1ddef5bf753fcd92d78
 Data/Local/Eng/MasterSkillTooltip_eng.bmd:d75f6b0c50012723c6380bd62d1662de
@@ -15206,4 +15203,12 @@ Data/World9/TileRock03.OZJ:4aadfe46434c453f63cbc4343d4907a6
 Data/World9/TileRock04.OZJ:c84760bd3f300570091820c80c008d00
 Data/World9/TileWater01.OZJ:f7f73b1edee85f87b38f9f0445b76240
 Data/World9/TileWood01.OZJ:cd3eaa56e961caa6a0628d90317356c0
+Logs/2017-07-29.txt:d41d8cd98f00b204e9800998ecf8427e
+Logs/2017-07-30.txt:d41d8cd98f00b204e9800998ecf8427e
+Logs/2017-07-31.txt:d41d8cd98f00b204e9800998ecf8427e
+Logs/Error.log:82f6fdc7a127c568e679f0ec40cb28b5
+Logs/Error_2.log:025049d58f3da48124adbc1c2ac03fab
+MHP_LOG/2017-07-29.log:08326a014ee3ae24e03e4565c3326b2f
+MHP_LOG/2017-07-30.log:c4bfc0acdfe348e2d3d2f75ce9c75d5e
+MHP_LOG/2017-07-31.log:c16cb2ba4b93968e69503f71d1798d90
 ScreenShots/.gitkeep:9aeb7f1a6545b7f3fc45e2b54f614713

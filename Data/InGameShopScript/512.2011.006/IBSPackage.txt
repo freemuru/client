@@ -9,7 +9,7 @@
 17@3@15@Panda pet@170@20@Auto collect zen around. Add exp gain rate +50%. Increase defense skill +50.@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@9|9|9|@6736@2@2@21|22|23|@0@508@669
 17@4@16@Unicorn pet@170@20@Panda pet give exp and zen bonus.@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@10|10|10|@6762@2@2@24|25|26|@0@508@669
 18@1@17@Platinum coin 1kkk@170@150@Platinum coin can be sold to shop and got 1kkk zen reward.@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@11|@7351@2@2@27|@0@508@669
-17@5@18@Skeleton ring@170@15@Attack/wizardy +40. Increase exp +30% if skeleton pet equiped.@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@12|12|12|@6778@2@2@28|29|30|@0@508@669
+17@5@18@Skeleton ring@170@15@Attack/wizardy +40. Increase exp +30 %if skeleton pet equiped.@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@12|12|12|@6778@2@2@28|29|30|@0@508@669
 17@6@19@Skeleton pet@170@20@Increase attack/wizardy +20%. Increase attack speed by 10. Increase exp gain rate +30%.@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@13|13|13|@6779@2@2@31|32|33|@0@508@669
 17@7@20@Demon pet@170@10@Increase attack/damage +40%@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@14|14|14|@6720@2@2@34|35|36|@0@508@669
 17@8@21@Spirit of Guardian@170@5@Reduce damage from monsters by 30%@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@15|15|15|@6721@2@2@37|38|39|@0@508@669
@@ -17,3 +17,4 @@
 18@2@23@Devil Square Ticket@170@50@Get x10 devil square passage ticket@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@17|@6702@2@2@41|@0@508@669
 18@3@24@Blood Castle Ticket@170@50@Get x10 blood castle any level passage ticket@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@18|@6703@2@2@42|@0@508@669
 21@7@26@Golden coin@170@150@Buy golden coin. Can be sold for 500kk.@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@19|@7350@5@2@43|@0@0@669
+18@4@27@Inventory expansion@170@100@Use this backpak expansion to active additional inventory pack@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@20|@7330@2@2@44|@0@508@669
