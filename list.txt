@@ -1,4 +1,4 @@
-version:11
+version:12
 Antihack.dll:ef696d3ab2680f2cab116d3d581ecb4e
 cg.dll:7401c600b165bed127f246147bc7334f
 cgGL.dll:1aca5665979d2c675acfe6bfd12a6435
@@ -25,7 +25,7 @@ Data/t41.bmd:bdb9d6ea2da43bf0fc7d8ec334cafda0
 Data/Custom/Diablo.txt:9f7b395606f52165312a02ea0a4bd66d
 Data/Custom/EventEntry.txt:69eff9da3cc88b6d432e79f9843c0dfc
 Data/Custom/GrandResetGroup.txt:d52d1c924f495e2ec7348c80c8da671c
-Data/Custom/ResetGroup.txt:a5c1a89d1df4dbf0711a35f575ae263a
+Data/Custom/ResetGroup.txt:dd94918010e78e629a9fbce7440d2645
 Data/Custom/Settings.ini:40bc364cb31ddeb39edd14705312ef27
 Data/Custom/Configs/ah.ltp:87f6f4c80ccf1f256fed1cab2bc06065
 Data/Custom/Configs/main.ltp:58a27ae0c9abcf857d8fadf7bb7fe48d
