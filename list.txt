@@ -1,4 +1,4 @@
-version:15
+version:16
 Antihack.dll:ef696d3ab2680f2cab116d3d581ecb4e
 cg.dll:7401c600b165bed127f246147bc7334f
 cgGL.dll:1aca5665979d2c675acfe6bfd12a6435
@@ -2636,7 +2636,7 @@ Data/Local/Eng/itemsettype.bmd:33be759bd48d2b85754a91bf9746816e
 Data/Local/Eng/itemtooltiptext_eng.bmd:12116468dbac5d6f6804de3ce1e20329
 Data/Local/Eng/itemtooltiptext_eng.old.bmd:904355ab371f6086ba4f9e17bd5d6f82
 Data/Local/Eng/itemtooltip_eng.bmd:00b7a02c776a00ca66cdc345c91ce33a
-Data/Local/Eng/item_eng.bmd:c4c3b90dde8b2264f5312e78c604bdea
+Data/Local/Eng/item_eng.bmd:f1a18d17f1545f5859e117f13c8f67db
 Data/Local/Eng/JewelOfHarmonyOption_eng.bmd:8524f4aed649e73239edec6241490a14
 Data/Local/Eng/JewelOfHarmonySmelt_eng.bmd:5b4d2f2d2ebde1ddef5bf753fcd92d78
 Data/Local/Eng/MasterSkillTooltip_eng.bmd:d75f6b0c50012723c6380bd62d1662de
