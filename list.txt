@@ -1,4 +1,4 @@
-version:18
+version:19
 Antihack.dll:ef696d3ab2680f2cab116d3d581ecb4e
 cg.dll:7401c600b165bed127f246147bc7334f
 cgGL.dll:1aca5665979d2c675acfe6bfd12a6435
@@ -2599,7 +2599,7 @@ Data/Local/Filter.bmd:adf2a9b6cff8d8579bd0871746759495
 Data/Local/FilterName.bmd:6c2fa09a2753b85dc1cc23e503288e3b
 Data/Local/GameGuard.csr:77f61e7f2de168df9065c2d9314ed32a
 Data/Local/item.bmd:6485841ff072c0510682da0da43381ef
-Data/Local/ItemAddOption.bmd:87e651427e136c1d3be3149f2ee43131
+Data/Local/ItemAddOption.bmd:a1b4922d74867002598f3c28f9015806
 Data/Local/ItemSetOption.bmd:a56055a38ea84f1a392e91fb5e372b6a
 Data/Local/itemsettype.bmd:33be759bd48d2b85754a91bf9746816e
 Data/Local/ItemTooltip.bmd:191e3218283e0e9aac8c7260a52f80a7
@@ -2612,7 +2612,7 @@ Data/Local/MapCharacters.bmd:ee0dd9dbee15cd7aef581198e46d16bb
 Data/Local/MasterSkillTooltip.bmd:35d2d96b619266379e4bceee1f120099
 Data/Local/MasterSkillTree.bmd:9083cfcb3c829834d8adfd5bbebb110e
 Data/Local/MasterSkillTreeData.bmd:8faec06503f300de9233a01530a8e59b
-Data/Local/mix.bmd:0b30062492d39064be30faa447684ad5
+Data/Local/mix.bmd:4f9997fef9df03538250b37125709681
 Data/Local/mix.old.bmd:4a558a65d5c044f9bd5dbfadba5de3c6
 Data/Local/MonsterSkill.bmd:cb4b6d4e32709d251e97bcf3c59d4447
 Data/Local/Movereq.bmd:4e42bdbfe40f64c04b0a095bc5388c61
