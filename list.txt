@@ -1,4 +1,4 @@
-version:16
+version:17
 Antihack.dll:ef696d3ab2680f2cab116d3d581ecb4e
 cg.dll:7401c600b165bed127f246147bc7334f
 cgGL.dll:1aca5665979d2c675acfe6bfd12a6435
@@ -489,8 +489,8 @@ Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.jpg:db3c16a5e76b2de9
 Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.OZJ:4f076ed85bba36876b5d36b8370707f0
 Data/InGameShopBanner/583.2010.005/IBSBanner.txt:d41d8cd98f00b204e9800998ecf8427e
 Data/InGameShopScript/512.2011.006/IBSCategory.txt:c59470dbb93668483ac73d27d4eaf7f3
-Data/InGameShopScript/512.2011.006/IBSPackage.txt:d365ea9cb1880214183f9273fa0c3d56
-Data/InGameShopScript/512.2011.006/IBSProduct.txt:46cae214bf1a5829ac818c5a848f5b8c
+Data/InGameShopScript/512.2011.006/IBSPackage.txt:49d46422f498eb5986dfcc372faae342
+Data/InGameShopScript/512.2011.006/IBSProduct.txt:b3c1c2a9f391db08948e289263de293a
 Data/InGameShopScript/512.2011.047/IBSCategory.txt:d8ba16b7f438505c3b4d99ae9185fadd
 Data/InGameShopScript/512.2011.047/IBSPackage.txt:44bd380d2f894b5775db5adf3ea1dc6d
 Data/InGameShopScript/512.2011.047/IBSProduct.txt:35a6f9268603cf38e7f81418b3d983e4
