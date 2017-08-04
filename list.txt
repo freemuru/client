@@ -1,4 +1,4 @@
-version:19
+version:20
 Antihack.dll:ef696d3ab2680f2cab116d3d581ecb4e
 cg.dll:7401c600b165bed127f246147bc7334f
 cgGL.dll:1aca5665979d2c675acfe6bfd12a6435
@@ -16,7 +16,7 @@ Data/Dec1.dat:11800adcd5305bdd9f3a7e5200b3c53a
 Data/Dec2.dat:cb346430c49a5240c92d50be84e0b2a8
 Data/Enc1.dat:e42a646f3258ee2ff6552c0886b00ff5
 Data/Enc2.dat:6b78ed9f63343d72f1e106e8b9162209
-Data/gate.bmd:62bf3cfdd3035514c2bbf0d71e20dfcf
+Data/gate.bmd:d3349bcad2f8860028c16e7bfa42670a
 Data/Glow.gld:7c08ff8ca141c40f7aaa19ba3ed2c07a
 Data/Macro.txt:f630457a4542e3db23e90d6ac2a8251f
 Data/main.emu:d9da1c753d992cb362fdcaf5833a6a86
@@ -489,8 +489,8 @@ Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.jpg:db3c16a5e76b2de9
 Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.OZJ:4f076ed85bba36876b5d36b8370707f0
 Data/InGameShopBanner/583.2010.005/IBSBanner.txt:d41d8cd98f00b204e9800998ecf8427e
 Data/InGameShopScript/512.2011.006/IBSCategory.txt:c59470dbb93668483ac73d27d4eaf7f3
-Data/InGameShopScript/512.2011.006/IBSPackage.txt:49d46422f498eb5986dfcc372faae342
-Data/InGameShopScript/512.2011.006/IBSProduct.txt:b3c1c2a9f391db08948e289263de293a
+Data/InGameShopScript/512.2011.006/IBSPackage.txt:0e05aa9104cee92eca0e19349bae3153
+Data/InGameShopScript/512.2011.006/IBSProduct.txt:28a8bffdeddb29d7d5460dc717b1ab27
 Data/InGameShopScript/512.2011.047/IBSCategory.txt:d8ba16b7f438505c3b4d99ae9185fadd
 Data/InGameShopScript/512.2011.047/IBSPackage.txt:44bd380d2f894b5775db5adf3ea1dc6d
 Data/InGameShopScript/512.2011.047/IBSProduct.txt:35a6f9268603cf38e7f81418b3d983e4
@@ -2633,9 +2633,9 @@ Data/Local/Eng/Dialog_eng.bmd:86672675e00b2bb87fbadee7fceca9fb
 Data/Local/Eng/ItemLevelTooltip_eng.bmd:9f09d3bb9ad2fb82023f0090bc146a1e
 Data/Local/Eng/itemsetoption_eng.bmd:ab91fc070e3f80920a5d36be78b6b041
 Data/Local/Eng/itemsettype.bmd:33be759bd48d2b85754a91bf9746816e
-Data/Local/Eng/itemtooltiptext_eng.bmd:12116468dbac5d6f6804de3ce1e20329
+Data/Local/Eng/itemtooltiptext_eng.bmd:3c4dd653b7801096a8f0aecc650ecce5
 Data/Local/Eng/itemtooltiptext_eng.old.bmd:904355ab371f6086ba4f9e17bd5d6f82
-Data/Local/Eng/itemtooltip_eng.bmd:00b7a02c776a00ca66cdc345c91ce33a
+Data/Local/Eng/itemtooltip_eng.bmd:69a931e3317acef24cf31d42d07a6dd9
 Data/Local/Eng/item_eng.bmd:f1a18d17f1545f5859e117f13c8f67db
 Data/Local/Eng/JewelOfHarmonyOption_eng.bmd:8524f4aed649e73239edec6241490a14
 Data/Local/Eng/JewelOfHarmonySmelt_eng.bmd:5b4d2f2d2ebde1ddef5bf753fcd92d78
