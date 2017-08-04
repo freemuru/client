@@ -1,4 +1,4 @@
-version:22
+version:23
 Antihack.dll:ef696d3ab2680f2cab116d3d581ecb4e
 cg.dll:7401c600b165bed127f246147bc7334f
 cgGL.dll:1aca5665979d2c675acfe6bfd12a6435
@@ -2646,7 +2646,7 @@ Data/Local/Eng/Npcname(eng).txt:ae9f3b061fa1a23b4d0b4fe25f365b8c
 Data/Local/Eng/Npcname_eng.txt:da34f0b9794292643ca232b190759ce0
 Data/Local/Eng/QuestWords_eng.bmd:47092d571f1ff253824316df04c788f4
 Data/Local/Eng/Quest_eng.bmd:6d7588d953f02f21356c3b1f15135b08
-Data/Local/Eng/skill_eng.bmd:a4b144edb1628c8151f4d6aebca9c26e
+Data/Local/Eng/skill_eng.bmd:419d81fdbba2424f7cc326ab74a9102d
 Data/Local/Eng/skill_eng.orig.bmd:c6a4a41bf880cfd28466df299ee5b347
 Data/Local/Eng/slide_eng.bmd:990ca0d49b5bb1d40a735e70f2a81be3
 Data/Local/Eng/socketitem_eng.bmd:290c418df977d79c02fa881cbc149660
