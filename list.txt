@@ -1,10 +1,10 @@
-version:24
+version:25
 Antihack.dll:ef696d3ab2680f2cab116d3d581ecb4e
 cg.dll:7401c600b165bed127f246147bc7334f
 cgGL.dll:1aca5665979d2c675acfe6bfd12a6435
 Launcher.exe:49d3a97a0fc55c569c3c82a3cb6346e7
 LICENSE:cecd9bd4824cb31c991359e31c018eae
-LTP.dll:1a6ddd9fc002c00946d56b150972894e
+LTP.dll:34674aaeff0ac92bae4e41b239aa725f
 main.exe:cf36fdf0ace290dc9de4099a73b7189e
 MaterialSkin.dll:dae45e51f8763bd0369a221480db0ee1
 MHPVerify.dll:aa4b5fede73428e54f2952516e72e123
@@ -28,7 +28,7 @@ Data/Custom/GrandResetGroup.txt:d52d1c924f495e2ec7348c80c8da671c
 Data/Custom/ResetGroup.txt:c523636164d1e04bc058ce143dd1ffbf
 Data/Custom/Settings.ini:40bc364cb31ddeb39edd14705312ef27
 Data/Custom/Configs/ah.ltp:87f6f4c80ccf1f256fed1cab2bc06065
-Data/Custom/Configs/main.ltp:581f833afe476c9b082e61ebdb0832d0
+Data/Custom/Configs/main.ltp:36850be26d0f6d728319cd56c7edc870
 Data/Custom/Effects/glow_blur_fp.cg:e4dbb7dce1fb11a3176d9d0abefa5b17
 Data/Custom/Effects/glow_blur_vp.cg:193c4f5f258da4c0ca5d32b3f0b31e54
 Data/Custom/Effects/glow_combine_fp.cg:775f264ac41e5f3663a1fbe2795fe16d
